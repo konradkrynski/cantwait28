@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "902425791410",
-    "project_id": "cantwa",
-    "storage_bucket": "cantwa.appspot.com"
+    "project_number": "182234977672",
+    "project_id": "cantwa300",
+    "storage_bucket": "cantwa300.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:902425791410:android:b2d5610bde5c2551bdf2ab",
+        "mobilesdk_app_id": "1:182234977672:android:9a50f9f0326f1165f0563d",
         "android_client_info": {
           "package_name": "com.konradkrynski.cantwait28"
         }
       },
       "oauth_client": [
         {
-          "client_id": "902425791410-ffp9ua5roe02d6bu9vm92m8oji7kcmoa.apps.googleusercontent.com",
+          "client_id": "182234977672-jnm6tjtvijui2b6ltjlq44pgidjc85bl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDpDXq8othNwhVrqACKyLs9oQLeANNiOgE"
+          "current_key": "AIzaSyD79Zm0U_NbJxWTybihyYe32axn0OO94vo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "902425791410-ffp9ua5roe02d6bu9vm92m8oji7kcmoa.apps.googleusercontent.com",
+              "client_id": "182234977672-jnm6tjtvijui2b6ltjlq44pgidjc85bl.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
